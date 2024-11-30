@@ -67,6 +67,14 @@ If you would like to contribute to this project, feel free to open a pull reques
 3. Commit your changes and push to your fork
 4. Open a pull request with a description of the changes
 
-## License
+## Contact Information
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+For any queries or communication, you can reach me at:
+
+- **Email**: ammarabdelhady8@gmail.com
+- **Phone**: +20-1026207313
+- **GitHub**: [Ammar-Abdelhady-ai](https://github.com/Ammar-Abdelhady-ai)
+- **Location**: Cairo, Egypt
+- **Portfolio**: [Ammar Abdelhady Portfolio](https://ammar-abdelhady-ai.github.io/Ammar-Abdelhady-Portfolio/)
+-  **CV**: [Ammar Abdelhady CV](https://drive.google.com/file/d/1-ns0Eof67-Ypo0TgeLN8xhb22Q5yrzuJ/view?usp=sharing)
+
