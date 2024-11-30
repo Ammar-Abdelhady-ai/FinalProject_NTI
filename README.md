@@ -1,2 +1,2 @@
-# Owner-avatar-FinalProject_NTI
+FinalProject_NTI
 my graduation Project from NTI 
