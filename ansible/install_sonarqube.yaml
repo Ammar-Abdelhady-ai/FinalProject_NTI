@@ -1,5 +1,0 @@
-- name: Install and configure Nexus 
-  hosts: sonarqube
-  tasks:
-  roles:  
-    - sonarqube

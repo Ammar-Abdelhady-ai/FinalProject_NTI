@@ -1,4 +1,0 @@
-- name: Installing Cloud Watch Agent
-  yum:
-    name: amazon-cloudwatch-agent
-    state: latest

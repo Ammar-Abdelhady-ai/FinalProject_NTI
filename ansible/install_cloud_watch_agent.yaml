@@ -1,5 +1,0 @@
-- name: Install Cloud Watch Agent
-  hosts: eks_nodes
-  tasks:
-  roles:  
-    - cloud-watch-agent
