@@ -66,7 +66,3 @@ If you would like to contribute to this project, feel free to open a pull reques
 2. Create a new branch for your changes
 3. Commit your changes and push to your fork
 4. Open a pull request with a description of the changes
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
