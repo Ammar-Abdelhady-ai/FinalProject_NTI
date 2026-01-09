@@ -39,7 +39,7 @@ pipeline {
     }
     stage('Update Deployment File') {
       environment {
-        GIT_USER_NAME = "samiselim"
+        GIT_USER_NAME = "Ammar-Abdelhady-ai"
       }
       steps {
         withCredentials([string(credentialsId: 'github_tocken', variable: 'GITHUB_TOKEN')]) {
@@ -48,7 +48,7 @@ pipeline {
           sh "sed -i 's|image:.*|image: ${env.BACKEND_REPO_URL}:${env.IMAGE_TAG}|g' ./k8s/backend.yaml"
           sh "sed -i 's|image:.*|image: ${env.FRONTEND_REPO_URL}:${env.IMAGE_TAG}|g' ./k8s/frontend.yaml"
 
-          sh 'git remote set-url origin https://samiselim:${GITHUB_TOKEN}@github.com/samiselim/FinalProject_NTI.git'
+          sh 'git remote set-url origin https://Ammar-Abdelhady-ai:${GITHUB_TOKEN}@github.com/Ammar-Abdelhady-ai/FinalProject_NTI.git'
           sh 'git add .'
           sh "git commit -m 'Update deployment image to version ${BUILD_NUMBER}'"
           sh 'git push origin HEAD:main'

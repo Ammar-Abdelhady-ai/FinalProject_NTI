@@ -2,8 +2,4 @@ package: nginx
 file_names:
   - file.css 
   - file.js
-<<<<<<< HEAD
-message: Hello From Sami Website 
-=======
-message: Hello From Ammar Website 
->>>>>>> 12195c8 (add ansile | Configrution files)
+message: Hello From Ammar Abdelhady Website
